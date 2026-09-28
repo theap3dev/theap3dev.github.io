@@ -16,7 +16,7 @@ body {
 
     background: linear-gradient(to bottom, #5e5e5e 0%, #3a3a3a 100%);
     color: white;
-    padding: 5px;
+    padding: 5px 1.5rem;
     margin: 10px auto 0;
     text-align: left;
     font-size: 0.75em;
@@ -24,6 +24,10 @@ body {
     width: min(96vw, 72rem);
 
     border: 2px solid #a0a0a0;
+}
+
+.about-link {
+    font-size: 1.25rem;
 }
 
 #workTitle {
